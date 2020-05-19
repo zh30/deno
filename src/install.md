@@ -1,5 +1,3 @@
-![Deno](../images/deno.gif)
-
 # 安装
 
 Deno 是一个没有依赖性的单独的可执行文件。您可以使用下面的安装程序进行安装，也可以从 [发行页面](https://github.com/denoland/deno/releases) 下载发行二进制文件。
