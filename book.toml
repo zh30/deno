@@ -1,0 +1,17 @@
+[book]
+authors = ["Zhang He"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "一起学 Deno"
+description = "Deno 是一个 JavaScript / TypeScript 的安全运行时。"
+
+[output.html]
+theme = "theme"
+mathjax-support = true
+preferred-dark-theme = "ayu"
+google-analytics = "UA-166861237-3"
+git-repository-url = "https://github.com/zhanghecool/deno"
+
+[output.html.playpen]
+editable = true
